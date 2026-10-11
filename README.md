@@ -2,7 +2,7 @@
 
 ### **I'm Seelam** 🤪
 
-` Data Engineer ` | ` Data Scientist ` 
+` Data ` | ` AI Platform Engineer Engineer - Data Scientist ` 
 
 ---
 
