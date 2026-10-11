@@ -58,11 +58,11 @@ I have technical experience and interest in:
 ---
 ## Hobbies and Interests
 
-- Traveling
-- Cooking and watching movies
-- Coding
-- Swimming
-- Cricket & Badminton
+🎯 Hobbies and Interests
+✈️ Traveling
+🍳 Cooking and watching movies
+💻 Coding
+📚 Learning new technologies
 
 ---
 
