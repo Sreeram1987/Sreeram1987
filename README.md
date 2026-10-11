@@ -1,20 +1,21 @@
-## Hi there 👋 Nice to see you 
+# Hi there 👋 Nice to see you
 
-                                                                                   I'm Seelam 😀 
+### **I'm Seelam** 🤪
 
-                                                                          I'm a Data Engineer | Data Scientist | Mentor 
+` Data Engineer ` | ` Data Scientist ` | ` Mentor `
 
+---
 
+</div>
 
-I have technical experience and interest in: 
---> Data Engineering 
---> Deep Learning 
---> Machine Learning 
---> Natural Language Processing 
---> MLOps 
---> Generative AI
---> Robotics
+## 📌 About Me
 
+I am a passionate technology enthusiast with hands-on experience and strong focus in building scalable data systems and intelligent AI solutions:
+
+> **Core Focus Areas:**  
+> `Data Engineering` ➔ `Deep Learning` ➔ `Machine Learning` ➔ `Natural Language Processing` ➔ `MLOps` ➔ `Generative AI` ➔ `Robotics`
+
+---
 **Languages and Tools:**
 <div align="center">
 
